@@ -16,6 +16,8 @@ Barre de sub -> plus la phase d’avantage est longue (combos, block strings, et
 
 Barre de viewer = barre de super
 
+Boutons = pieds et poings (3 puissances)
+
 
 Cast
 MisterMV (se bat avec des instruments de musique)
